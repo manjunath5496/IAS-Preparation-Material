@@ -124,3 +124,72 @@
 				
 32. India After Gandhi By Ramachandra Guha </br>
                 <a href="img/EDU32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+33. CSAT Logical Reasoning and Analytical Ability </br>
+                <a href="img/EDU33.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+34. Kiran's Computer Literacy and Knowledge </br>
+                <a href="img/EDU34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+35. Lucent's General Knowledge </br>
+                <a href="img/EDU35.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+36. Quantitative Aptitude By R. S. Aggarwal </br>
+                <a href="img/EDU36.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+			
+37. Fast Track Objective Arithmetic By Rajesh Verma </br>
+                <a href="img/EDU37.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+38. Vision IAS Social Security </br>
+                <a href="img/EDU38.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+39. One Liner Approach General Knowledge </br>
+                <a href="img/EDU39.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+40. Objective English By Hari Mohan Prasad </br>
+                <a href="img/EDU40.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+41. Arithmetic For General Competitions By Neetu Singh </br>
+                <a href="img/EDU41.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+42. English For General Competitions By Neetu Singh </br>
+                <a href="img/EDU42.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+43. Paramount Maths Practice Set </br>
+                <a href="img/EDU43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+44. Paramount Reasoning </br>
+                <a href="img/EDU44.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+45. Math Handbook </br>
+                <a href="img/EDU45.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+46. Test of English Language </br>
+                <a href="img/EDU46.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+							
+47. SSC Advanced Maths</br>
+                <a href="img/EDU47.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+48. Quantitative Aptitude For Competitive Exams </br>
+                <a href="img/EDU48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

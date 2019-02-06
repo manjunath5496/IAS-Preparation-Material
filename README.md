@@ -1,126 +1,126 @@
-1. CAT 2018 Slot 1 With Answers</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+1. Timeline: Indian History</br>
+                <a href="img/EDU1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-2. CAT 2018 Slot 2 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+2. 101 Shortcuts in Quantitative Aptitude </br>
+                <a href="img/EDU2.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-3. CAT 2017 Shift-2 Questions With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+3. 100 Golden Rules of English Grammar for Error Detection and Sentence Improvement </br>
+                <a href="img/EDU3.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
- 4. CAT 2017 Shift-1 Questions With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+ 4. 650 GA Questions Asked In All Exams </br>
+                <a href="img/EDU4.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
-5. CAT 1991 With Answers</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+5. GST (Goods and Services Tax) Important Questions For Competitive Exams</br>
+                <a href="img/EDU5.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-6. CAT 2008 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+6. Most Important Computer Abbreviations </br>
+                <a href="img/EDU6.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-7. CAT 2007 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+7. 1250+ Indian Geography MCQs For All Competitive Exams </br>
+                <a href="img/EDU7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
- 8. CAT 2006 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+ 8. SSC CGL Cracker For General Studies </br>
+                <a href="img/EDU8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
-9. CAT 2005 With Answers</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+9. 9000+ General Knowledge Questions Bank For RRB, SSC and Bank Exams</br>
+                <a href="img/EDU9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-10. CAT 2004 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+10. 650 General Awareness Questions asked in various Competitive Exams 2016  </br>
+                <a href="img/EDU10.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-11. CAT 2002 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+11. GK Questions For CDS / NDA / AFCAT </br>
+                <a href="img/EDU11.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
- 12. CAT 2003 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT12.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+ 12. Kiran's SSC Mathematics Chapter Wise Solved Papers </br>
+                <a href="img/EDU12.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
-13. CAT 2000 With Answers</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT13.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+13. Insights IAS 2017 Prelims Test Series</br>
+                <a href="img/EDU13.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-14. CAT 2001 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+14. Lucent's General Science </br>
+                <a href="img/EDU14.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-15. CAT 1999 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+15. 4100+ IAS Prelims Previous Year Questions Subject Wise Solved (1979&minus;2016) </br>
+                <a href="img/EDU15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
- 16. CAT 1998 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+ 16. Unacademy Prelims Mock Tests </br>
+                <a href="img/EDU16.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 		
 		
-17. CAT 1997 With Answers</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+17. Paramount Test Series</br>
+                <a href="img/EDU17.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-18. CAT 1996 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+18. November 2017 Current Affairs MCQs </br>
+                <a href="img/EDU18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-19. CAT 1990 With Answers </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+19. 2017 Prelims Test Series &minus; Shankar IAS</br>
+                <a href="img/EDU19.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-20. Quantitative Aptitude for CAT By Arun Sharma </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+20. 2017 Prelims Test Series &minus; GS Score </br>
+                <a href="img/EDU20.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
-21. GMAT CAT Critical Reasoning</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+21. 2017 Prelims Test Series &minus; Focus IAS</br>
+                <a href="img/EDU21.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-22. How to Prepare For Quantitative Aptitude For the CAT By Arun Sharma</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+22. Geography Optional &minus; Climatology</br>
+                <a href="img/EDU22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-23. Logical Reasoning CAT Questions For Practice </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+23. Pavan Kumar's IAS Ethics, Integrity and Aptitude </br>
+                <a href="img/EDU23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-24. Verbal Ability and Reading Comprehension For CAT By Arun Sharma </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+24. Comparative Public Administration By Ramesh Arora </br>
+                <a href="img/EDU24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
 
-25. Word Power Made Easy By Norman Lewis</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+25. Vision IAS And Toppers Notes</br>
+                <a href="img/EDU25.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-26. The Pearson Guide To Quantitative Aptitude And Data Interpretation For The CAT </br>
-                <a href="https://drive.google.com/file/d/1m8TqONR5GqBoMuRXaEl25XbcC2SWbGcj/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+26. Political Science Mains </br>
+                <a href="img/EDU26.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-27. A Modern Approach to Verbal and Non-Verbal Reasoning By R.S. Aggarwal </br>
-                <a href="https://drive.google.com/file/d/1e8X9ObgAUe7sBF-dOXLRwq979b4Qbhf-/view" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+27. Sample Notes of Indian Economy </br>
+                <a href="img/EDU27.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-28. Geometry and Mensuration By Rahul Raj </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+28. Geography Optional &minus;  Geomorphology </br>
+                <a href="img/EDU28.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
-29. Magical Book On Quicker Maths By M. Tyra</br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+29. Geography of India By Majid Husain</br>
+                <a href="img/EDU29.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-30. Monthly GK Digest March 2017 </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+30. GS Paper III &minus;  Science and Technology </br>
+                <a href="img/EDU30.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-31. One Stop MBA CAT 2007 Question Paper </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+31. Geography Paper II Notes of R. Vineel Krishna </br>
+                <a href="img/EDU31.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
-32. GRE" CAT Answers to the Real Essay Questions By Mark Alan Stewart </br>
-                <a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/CAT32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+32. India After Gandhi By Ramachandra Guha </br>
+                <a href="img/EDU32.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>

@@ -183,9 +183,43 @@
                 <a href="img/EDU48.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 			
+49. A Brief History of Modern India </br>
+                <a href="img/EDU49.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+50. The Penguin History of Early India </br>
+                <a href="img/EDU50.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
-		
-		
+51. India Year Book &minus; 2018 </br>
+                <a href="img/EDU51.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+52. India Year Book &minus; 2017</br>
+                <a href="img/EDU52.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+53. Indian Economy By Ramesh Singh </br>
+                <a href="img/EDU53.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+54. India's International Relations By David Scott </br>
+                <a href="img/EDU54.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+			
+55. Social Problems in India By Ram Ahuja </br>
+                <a href="img/EDU55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+56. From Plassey to Partition: A History of Modern India </br>
+                <a href="img/EDU56.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+57. Orient BlackSwan School Atlas </br>
+                <a href="img/EDU57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+58. Sociology Material </br>
+                <a href="img/EDU58.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+
 		
 		
 		

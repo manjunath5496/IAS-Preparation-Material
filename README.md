@@ -219,10 +219,32 @@
 58. Sociology Material </br>
                 <a href="img/EDU58.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
-
+			
+59. Introduction to the Constitution of India </br>
+                <a href="img/EDU59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+60. The Constitution of India </br>
+                <a href="img/EDU60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+61. India: A Comprehensive Geography By D.R Khullar </br>
+                <a href="img/EDU61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+62. 1500+ Indian Constitution Questions with Answers </br>
+                <a href="img/EDU62.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+			
+63. Indian Art and Culture By Nitin Singhania </br>
+                <a href="img/EDU63.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+				
+				
+64. Ancient and Medieval India By Poonam Dalal Dahiya </br>
+                <a href="img/EDU64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
-		
-		
+					
+65. National Current Affairs 2015 &minus; 17  </br>
+                <a href="img/EDU65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+			
 		
 		
 		

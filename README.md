@@ -254,7 +254,7 @@
 		
 		
 68. Indian Economy By K. Sankarganesh  </br>
-                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://drive.google.com/file/d/1CZvekOCJ8LuDa7spHAOXW6-9nvlG1OqE/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 			
 					
@@ -275,11 +275,11 @@
 		
 					
 73. General Studies Manual For UPSC and State Public Services Examinations  </br>
-                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU73.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://drive.google.com/file/d/1OtJU91CZc9MlNM5y_08AniwdNue_GZI3/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 					
 74. UPSC Exam Study Material By Ashish Agrawal   </br>
-                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU74.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://drive.google.com/file/d/1UaWcbn9awPP3Jv57Iw9kHmYZ3N44WQxl/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 					
 			

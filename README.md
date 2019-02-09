@@ -245,6 +245,52 @@
 65. National Current Affairs 2015 &minus; 17  </br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 			
+66. GS Prelim Test&minus;7 </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU66.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+					
+67. Political Science Study Material  </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+		
+68. Indian Economy By K. Sankarganesh  </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+			
+					
+69. India&minus;Democracy and Development  </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+		
+70. Disaster Management   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU70.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+					
+71. Compulsory English UPSC Mains Last 17 Years Papers (1997&minus;2013)  </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU71.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+		
+72. NammaKPSC Test Series   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU72.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+					
+73. General Studies Manual For UPSC and State Public Services Examinations  </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU73.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+					
+74. UPSC Exam Study Material By Ashish Agrawal   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU74.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+					
+			
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		

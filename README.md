@@ -348,5 +348,11 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 95. Medieval India By Satish Chandra</br>
-                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>				
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+96. World Focus</br>
+                <a href="https://drive.google.com/file/d/1lAhR2a0wZeGXUh5S52OyD5jB3zffwdlv/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+		
+		
 		

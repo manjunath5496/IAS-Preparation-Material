@@ -341,7 +341,8 @@
 92. Shankar IAS | IAS Parliament | Current Affairs Monthly Magazine</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
-		
+93. Anthropology For Civil Services Examination</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU94.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
 		

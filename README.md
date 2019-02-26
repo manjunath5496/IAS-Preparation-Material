@@ -281,12 +281,46 @@
 74. UPSC Exam Study Material By Ashish Agrawal   </br>
                 <a href="https://drive.google.com/file/d/1UaWcbn9awPP3Jv57Iw9kHmYZ3N44WQxl/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
-					
+75. Indian Culture and Heritage   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU76.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>					
 			
+76. Synopsis Of Threatenend Species Of India (Part I) By Swastika Singh   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU77.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+77. The Wonder That Was India   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>					
+					
+78. India Physical Geography   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>					
+			
+79. Ethics   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+80. Vajirao IAS Study Material (News Paper Analysis)   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
+81. NIOT Study Material   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
+82. Art and Culture Material   </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+		
+83. Regional Planning  By John Glasson </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+		
+84. The Revolt of 1857 </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+			
+85. Ethical Governance </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+86. Economic Survey </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 		
 		

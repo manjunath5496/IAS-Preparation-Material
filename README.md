@@ -322,7 +322,24 @@
 86. Economic Survey </br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+87. Practice Map of Indian Coasts For IAS Exam </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
+88. Practice Map India Outline For IAS Exam</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+89. Practice Map of India Boundaries For IAS Exam</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+90. Philosophical Essays By Bertrand Russell </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+				
+		
+91. AmbitionIAS Study Material</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
+		
+92. Shankar IAS | IAS Parliament | Current Affairs Monthly Magazine</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 		
 		

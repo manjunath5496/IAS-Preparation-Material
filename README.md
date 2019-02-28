@@ -363,7 +363,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU99.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 100. A Beginners Guide to UPSC Preparation</br>
-                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU100.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+                <a href="https://drive.google.com/file/d/1qXmSD1e5VQGFa9gFVf_jCsbKbmqZ950_/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 101. Administrative Thinkers By D. Ravindra Prasad</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU101.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
@@ -372,7 +372,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU102.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 103. Elements of Public Administration</br>
-                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU103.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+                <a href="https://drive.google.com/file/d/12kHRC8YSTqTrlNbBJlHmwLu9ECDOGaed/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 104. Social Science (Standard X) </br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU104.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			

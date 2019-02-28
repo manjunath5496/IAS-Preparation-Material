@@ -379,11 +379,28 @@
 		
 105. General Studies Manual For UPSC and State Public Services Examinations 2014</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU105.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
-				
+						
+106. GS Economy </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU106.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
+107. Strength of Materials and Structures </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU107.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
+108. The Public Administration Theory Primer</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU108.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+109.The Routledge Companion to Ethics </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU109.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
+110. The Complete Guide For UPSC Civil Services Exam 2016 </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU110.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
+111. Understanding Ethics: An Introduction to Moral Theory</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU111.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
+112. The Role of Public Administration in Building a Harmonious Society </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU112.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+113. ESE &minus; 2016 Detailed Solutions of Civil Engineering Paper &minus; I</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU113.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		

@@ -350,8 +350,39 @@
 95. Medieval India By Satish Chandra</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
-96. World Focus</br>
-                <a href="https://drive.google.com/file/d/1lAhR2a0wZeGXUh5S52OyD5jB3zffwdlv/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+96. World Focus Magazine</br>
+                <a href="https://drive.google.com/file/d/1lAhR2a0wZeGXUh5S52OyD5jB3zffwdlv/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+97. Igneous Petrology and Volcanology</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU97.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+98. Public Administration Paperset</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU98.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+99. Current Affairs Booklet</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU99.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+100. A Beginners Guide to UPSC Preparation</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU100.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+101. Administrative Thinkers By D. Ravindra Prasad</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU101.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+102. Contemporary Challenges in Administrative Law and Public Administration</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU102.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+103. Elements of Public Administration</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU103.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+104. Social Science (Standard X) </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU104.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+105. General Studies Manual For UPSC and State Public Services Examinations 2014</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU105.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+				
+		
+		
+		
 		
 		
 		

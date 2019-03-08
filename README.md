@@ -411,8 +411,47 @@
                 <a href="https://drive.google.com/file/d/1uvEBr71_p9NH2v0zUOERVV9Kfa-y-hMZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
+116. The Protestant Ethic and the Spirit of Capitalism </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1012.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
+117. The Penguin Dictionary Of Sociology </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1013.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+118. Suicide: A study in sociology </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1014.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+119. The Argumentative Indian </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1015.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+120. History of India </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1016.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+121. The Last Mughal </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1017.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+		
+122. Atlas of World History </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1018.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+123. A History Of The World From The 20th To The 21st Century </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1019.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+124. Oceanography and Marine Biology </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1020.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+125. Chemical Oceanography </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1021.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+126. Handbook Of Research Methods In Public Administration </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1022.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+127. Introducing Public Administration </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1023.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+		
+128. Ethics and Integrity in Public Administration</br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1024.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+		
+129. The Philosophy Of Public Administration </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1025.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 
-
-
-
+130. The Oxford Handbook Of Political Institutions </br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU1026.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	

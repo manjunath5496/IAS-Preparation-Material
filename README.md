@@ -111,7 +111,7 @@
 
 
 29. Geography of India By Majid Husain</br>
-                <a href="https://drive.google.com/file/d/1otzp9Tbot8hiP-UbSmdtcpyn4Xnz93gL/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU29.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 30. GS Paper III &minus;  Science and Technology </br>
@@ -130,7 +130,7 @@
 				
 				
 34. Kiran's Computer Literacy and Knowledge </br>
-                <a href="https://drive.google.com/file/d/1cgnnqMxlMHLsEjXLv179-PXagEAW2QqV/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 35. Lucent's General Knowledge </br>
                 <a href="https://drive.google.com/file/d/1lQVOkhjNdQkaZ3oRENl9_QMIAadnKz3E/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -141,7 +141,7 @@
 			
 			
 37. Fast Track Objective Arithmetic By Rajesh Verma </br>
-                <a href="https://drive.google.com/file/d/1U9lnetm7e-xtS5mERtSFn7SF1MiDCA8T/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU37.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 38. Vision IAS Social Security </br>
@@ -152,7 +152,7 @@
 				
 				
 40. Objective English By Hari Mohan Prasad </br>
-                <a href="https://drive.google.com/file/d/1lmcTAbOi3_3ExVm6mkJhCkOONy-S7gOa/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU40.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 41. Arithmetic For General Competitions By Neetu Singh </br>
                 <a href="https://drive.google.com/file/d/1HYL-65mY9zlbDf_5cCu2KjXHJ0FD62K7/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -254,7 +254,7 @@
 		
 		
 68. Indian Economy By K. Sankarganesh  </br>
-                <a href="https://drive.google.com/file/d/1CZvekOCJ8LuDa7spHAOXW6-9nvlG1OqE/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 			
 					
@@ -363,7 +363,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU99.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 100. A Beginners Guide to UPSC Preparation</br>
-                <a href="https://drive.google.com/file/d/1qXmSD1e5VQGFa9gFVf_jCsbKbmqZ950_/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU100.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 101. Administrative Thinkers By D. Ravindra Prasad</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU101.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
@@ -372,7 +372,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU102.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 103. Elements of Public Administration</br>
-                <a href="https://drive.google.com/file/d/12kHRC8YSTqTrlNbBJlHmwLu9ECDOGaed/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU103.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 104. Social Science (Standard X) </br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU104.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			

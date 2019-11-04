@@ -279,7 +279,7 @@
 		
 					
 74. UPSC Exam Study Material By Ashish Agrawal   </br>
-                <a href="https://drive.google.com/file/d/1UaWcbn9awPP3Jv57Iw9kHmYZ3N44WQxl/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://github.com/manjunath5496/UPSC-Exam-Study-Material-By-Ashish-Agrawal" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 75. Indian Culture and Heritage   </br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU76.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>					

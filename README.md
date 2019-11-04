@@ -63,7 +63,7 @@
 		
 		
 17. Paramount Test Series</br>
-                <a href="https://drive.google.com/file/d/1GR9JjUT1SBu7QuiziJbQMnr4CqxyVOLO/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Paramount-Test-Series" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 18. November 2017 Current Affairs MCQs </br>

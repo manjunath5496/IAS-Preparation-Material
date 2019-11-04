@@ -148,7 +148,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU38.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 39. One Liner Approach General Knowledge </br>
-                <a href="https://drive.google.com/file/d/1ELsDPOlYxi3T016IQc4QcC9Xxx3sUF8b/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/One-Liner-Approach-General-Knowledge" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 40. Objective English By Hari Mohan Prasad </br>

@@ -166,7 +166,7 @@
 				
 				
 44. Paramount Reasoning </br>
-                <a href="https://drive.google.com/file/d/1v5Mmnm-YS33Qh5yJ_tHkBbVKGfb2VYvQ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Paramount-Reasoning-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 45. Math Handbook </br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU45.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>

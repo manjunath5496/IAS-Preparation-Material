@@ -408,7 +408,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU114.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 115. Byju's Class Notes</br>
-                <a href="https://drive.google.com/file/d/1uvEBr71_p9NH2v0zUOERVV9Kfa-y-hMZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU115.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 
 
 116. The Protestant Ethic and the Spirit of Capitalism </br>

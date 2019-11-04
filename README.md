@@ -217,7 +217,7 @@
 				
 				
 58. Sociology Material </br>
-                <a href="https://drive.google.com/file/d/1QOGB59nfRgZTyrRc1pkK1_S2zyCFEkWH/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Sociology-Material" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 			
 59. Introduction to the Constitution of India </br>

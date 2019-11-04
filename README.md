@@ -71,7 +71,7 @@
 				
 				
 19. 2017 Prelims Test Series &minus; Shankar IAS</br>
-                <a href="https://drive.google.com/file/d/10cieQMEkMosOwjh1p3PPyvzBSof93tuu/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/2017-Prelims-Test-Series-Shankar-IAS" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 20. 2017 Prelims Test Series &minus; GS Score </br>

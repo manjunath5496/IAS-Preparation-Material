@@ -95,7 +95,7 @@
 		
 
 25. Vision IAS And Toppers Notes</br>
-                <a href="https://drive.google.com/file/d/1q7QK_yprc3mW_LKbjxFTDjfSC_OwYFOX/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Vision-IAS-And-Toppers-Notes" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 26. Political Science Mains </br>

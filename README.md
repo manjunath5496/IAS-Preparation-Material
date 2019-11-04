@@ -155,7 +155,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU40.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 41. Arithmetic For General Competitions By Neetu Singh </br>
-                <a href="https://drive.google.com/file/d/1HYL-65mY9zlbDf_5cCu2KjXHJ0FD62K7/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Arithmetic-For-General-Competitions" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 42. English For General Competitions By Neetu Singh </br>

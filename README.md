@@ -351,7 +351,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>	
 		
 96. World Focus Magazine</br>
-                <a href="https://drive.google.com/file/d/1lAhR2a0wZeGXUh5S52OyD5jB3zffwdlv/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/World-Focus-Magazine" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 		
 97. Igneous Petrology and Volcanology</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU97.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			

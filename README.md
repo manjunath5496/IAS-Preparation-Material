@@ -137,7 +137,7 @@
 				
 				
 36. Quantitative Aptitude By R. S. Aggarwal </br>
-                <a href="https://drive.google.com/file/d/18Uq9UR0GVIVRJabb6D_eeo61cEs6ECkc/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Quantitative-Aptitude-By-R-S-Aggarwal" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 			
 37. Fast Track Objective Arithmetic By Rajesh Verma </br>

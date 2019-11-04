@@ -50,7 +50,7 @@
 				
 				
 14. Lucent's General Science </br>
-                <a href="https://drive.google.com/file/d/1ktSNtYbEzk0zye4XsRq4uEAmQC0dFTMZ/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Lucent-s-General-Science-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 15. 4100+ IAS Prelims Previous Year Questions Subject Wise Solved (1979&minus;2016) </br>

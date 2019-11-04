@@ -275,7 +275,7 @@
 		
 					
 73. General Studies Manual For UPSC and State Public Services Examinations  </br>
-                <a href="https://drive.google.com/file/d/1OtJU91CZc9MlNM5y_08AniwdNue_GZI3/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
+                <a href="https://github.com/manjunath5496/General-Studies-Manual-For-UPSC-and-State-Public-Services-Examinations" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>		
 		
 					
 74. UPSC Exam Study Material By Ashish Agrawal   </br>

@@ -228,7 +228,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 			
 61. India: A Comprehensive Geography By D.R Khullar </br>
-                <a href="https://drive.google.com/file/d/1Q5P3mjiGeXJkG7FEE9lZDavkatXJzuBr/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/India-A-Comprehensive-Geography-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 				
 62. 1500+ Indian Constitution Questions with Answers </br>

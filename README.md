@@ -342,7 +342,7 @@
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 93. Anthropology For Civil Services Examination</br>
-                <a href="https://drive.google.com/file/d/1BcGtrmaQX6M1gJ29pUKq3deqVTZ_l6Aa/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
+                <a href="https://github.com/manjunath5496/Anthropology-For-Civil-Services-Examination-Book" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			
 		
 94. Ancient India By R. S. Sharma</br>
                 <a href="https://github.com/manjunath5496/IAS-Preparation-Material/blob/master/EDU95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>			

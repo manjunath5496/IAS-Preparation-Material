@@ -180,7 +180,7 @@
 				
 				
 48. Quantitative Aptitude For Competitive Exams </br>
-                <a href="https://drive.google.com/file/d/1vEmgsBbCfYv5IuYX4814e0oU-1ndWQ2K/view?usp=sharing" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                <a href="https://github.com/manjunath5496/Quantitative-Aptitude-For-Competitive-Exams" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
 				
 			
 49. A Brief History of Modern India </br>
